@@ -1,0 +1,15 @@
+{
+  "name": "ai-dost-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Dost Android app",
+  "main": "api/chat.js",
+  "scripts": {
+    "start": "node api/chat.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
